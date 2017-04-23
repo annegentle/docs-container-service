@@ -1,4 +1,4 @@
 ---
+unsearchable: true
 ---
 User-agent: *
-Disallow: /

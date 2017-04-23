@@ -1,20 +1,12 @@
-# Rackspace Container Service
+# Carina by Rackspace
 
-[![Build Status](https://travis-ci.org/rackerlabs/docs-container-service.svg?branch=master)](https://travis-ci.org/rackerlabs/docs-container-service)
+[![Build Status](https://build.developer.rackspace.com/getcarina/getcarina.com/badge?branch=master)](https://build.developer.rackspace.com/getcarina/getcarina.com/)
 
+This [Jekyll](http://jekyllrb.com/) repository houses documentation and tutorials for Carina by Rackspace.
 
-This [Jekyll](http://jekyllrb.com/) repository houses documentation and tutorials for Rackspace Container Service.
+## Preview
 
-## Installation
-You can install Jekyll either by using the following instructions or, if you have Docker Toolbox installed, by running `script/preview`.
-
-1. [Install Jekyll](http://jekyllrb.com/docs/installation/).
-1. Clone this repository.
-1. From the cloned repo, run `bundle install`.
-1. Run `bundle exec jekyll serve --watch`.
-1. Navigate your web browser to the URL specified in the output.
-
-Jekyll is now serving this repo as a simple website, and will rebuild the site every time you save a file.
+A few minutes after you open a new pull request or push additional commits to an existing one, @rackernexus will post a comment including a link to a preview build of your content.
 
 ## Contact
 
